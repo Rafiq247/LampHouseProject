@@ -1,0 +1,60 @@
+/* toggle dropdown */
+#lamp-toggle {
+    color: white;
+    transition: color 0.3s ease-in-out;
+}
+
+#lamp-toggle:hover {
+    color: #ff5722;
+    text-decoration: none;
+}
+
+/* items dropdown */
+#menu-lamp .item-lamp {
+    color: white;
+    transition: color 0.3s ease-in-out;
+}
+
+#menu-lamp .item-lamp:hover {
+    color: #ff5722;
+    text-decoration: none;
+}
+
+.task-name {
+    color: tomato;
+}
+
+/* background content */
+#main-bg {
+    background-image: url('/assets/bgrumah.png');
+    background-size: cover;
+    background-position: center;
+}
+
+#family-bg {
+    background-image: url('/assets/familyroom.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.lamphouse {
+    transform: scaleY(-1);
+}
+
+#bedroom-bg {
+    background-image: url('/assets/bedroom.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+#dining-bg {
+    background-image: url('/assets/dinningroom.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+#sitting-bg {
+    background-image: url('/assets/sittingroom.jpg');
+    background-size: cover;
+    background-position: center;
+}
